@@ -120,6 +120,7 @@ public class OrmTest {
         var student2 = studentDao.create("Jan", "Paciaciak", 800126);
         var course = courseDao.create("WDI");
 
+//        boolean studentEnrolled = courseDao.enrollStudent()
         var students = course.get().studentSet();
 
         // Then
