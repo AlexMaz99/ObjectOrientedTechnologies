@@ -3,9 +3,9 @@
 Tasks from Object-Oriented Technologies classes at the AGH University of Science and Technology.
 
 1. [Persistance patterns](../master/lab1)
-2. [Dependency injection](../master/lab2)
-3. [Introduction to reactive programming - RxJava](../master/lab3)
-4. [Graphic interface patterns - JavaFX](../master/lab4)
+2. [Dependency injection](../master/lab2/lab-ioc)
+3. [Introduction to reactive programming - RxJava](../master/lab3/lab-rx)
+4. [Graphic interface patterns - JavaFX](../master/lab4/lab-gui-gallery)
 
 ## Contributors ✨
 <table>
